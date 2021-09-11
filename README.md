@@ -4,3 +4,4 @@
 
 ### Key-Value Store (KVS)  
 #### Redis  
+- [레디스 빈 리스트와 non-null 타입 간의 직렬화 문제]()
