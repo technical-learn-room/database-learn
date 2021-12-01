@@ -2,7 +2,7 @@
 ### Common  
 - [Optimistic Concurrency vs Pessimistic Concurrency](https://github.com/technical-learn-room/database-learn/blob/main/rdb/common/optimistic-concurrency-vs-pessimistic-concurrency.md)  
 ### MySQL  
-- [InnoDB의 MVCC]()
+- [InnoDB의 MVCC](https://github.com/technical-learn-room/database-learn/blob/main/rdb/mysql/InnoDB%EC%9D%98%20MVCC.md)  
 
 ## NoSQL  
 
